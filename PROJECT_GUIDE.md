@@ -82,8 +82,6 @@ Like-for-like stops at January 2025 because ONS stopped publishing food shop pri
 **What would you do with a retailer's own data?**
 The same analysis on the retailer's sales and prices: which categories drive basket cost, by store and region, and which lines need the closest monitoring.
 
-**Did you use AI?**
-Answer honestly: AI tools helped write parts of the code, especially the dashboard. The question, the method, the checks against ONS, and the decisions about what to exclude and what to trust are things you understand and can explain.
 
 ---
 
